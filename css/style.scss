@@ -1,0 +1,18 @@
+.square {
+  display: flex;
+  height: 5vh;
+  border: white 1px solid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#comment1,
+#comment2 {
+  font-size: 1rem;
+  display: flex;
+  margin: 2rem;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
