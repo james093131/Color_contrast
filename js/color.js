@@ -5,7 +5,7 @@ function get_hex() {
     let test2 = document.getElementById("hex-color-2").value;
     let rgb1 = new Array(3);
     let rgb2 = new Array(3);
-    if (check_entry(test, test2, rgb1, rgb2)) {
+    if (check_enter(test, test2, rgb1, rgb2)) {
 
         if (test.length == 6) {
             test = '#' + test;
@@ -95,7 +95,7 @@ function HEX_to_RGB(test, test2, rgb1, rgb2) {
     // console.log(rgb1);
     // console.log(rgb2);
 }
-function check_entry(test, test2) //check user input correct or not
+function check_enter(test, test2) //check user input correct or not
 {
 
     let check = 1;
