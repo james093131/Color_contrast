@@ -14,6 +14,7 @@ between 4.5 to 7 -> Great
 bigger than 7 -> Excellent
 
 
+
 <div align="center">
-    <img src="https://github.com/james093131/Color_contrast/blob/master/demo.png" alt="Demo" width="60%"/>
+    <img src="https://github.com/james093131/Color_contrast/blob/master/demo.png" alt="Demo" width="40%"/>
 </div>
