@@ -15,5 +15,5 @@ bigger than 7 -> Excellent
 
 
 <div align="center">
-    <img src="https://github.com/james093131/Color_contrast/demo.png" alt="Demo" width="80%"/>
+    <img src="https://github.com/james093131/Color_contrast/blob/master/demo.png" alt="Demo" width="60%"/>
 </div>
