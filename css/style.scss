@@ -11,8 +11,16 @@
 #comment2 {
   font-size: 1rem;
   display: flex;
-  margin: 2rem;
   justify-content: center;
   text-align: center;
   align-items: center;
+}
+
+div {
+  h5 {
+    text-align: center;
+  }
+}
+.bg-custom {
+  background-color: #d9d9d9 !important;
 }
